@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <p>
-                Esto es un Ejemplo en GitUp
+                Esto es un Ejemplo en GitUp 2
             </p>
         </div>
     </form>
